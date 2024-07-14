@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KingPapa</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Welcome to KingPapa</h1>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#features">Features</a></li>
+                    <li><a href="#nft">NFT Collection</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="home">
+        <div class="container">
+            <h2>Revolutionizing Blockchain and NFTs</h2>
+            <p>Join us on our journey to create a unique ecosystem for token and NFT enthusiasts.</p>
+            <a href="#about" class="btn">Learn More</a>
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="container">
+            <h2>About KingPapa</h2>
+            <p>KingPapa is a token on the Polygon blockchain, launching first on the Solana network and eventually creating its own blockchain. We offer an NFT collection, staking and farming rewards, and much more.</p>
+        </div>
+    </section>
+
+    <section id="features">
+        <div class="container">
+            <h2>Our Features</h2>
+            <ul>
+                <li>Exclusive NFT Collection</li>
+                <li>Stake and Farm Rewards</li>
+                <li>NFT Watch and Rate Platform</li>
+                <li>Exclusive Exchange for Collaborative Tokens</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="nft">
+        <div class="container">
+            <h2>NFT Collection</h2>
+            <p>Explore our unique NFT collection and discover the potential rewards.</p>
+            <a href="#" class="btn">Explore NFTs</a>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 KingPapa. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
