@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @KINGPAPAxx
-- also know as asif amod
-- I'm from South Africa 
+- 👋 Hi, I’m @KINGPAPAxx 
 - I'm a newly web3 developer 
 - learning to build my own token polygon blockchain
 - to which can bring amazing fundamentals and aspects of the token
